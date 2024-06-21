@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>F1-Logo.png</file>
+    </qresource>
+    <qresource prefix="/circuits">
+        <file>Circuits/Autodromo_Enzo_e_Dino_Ferrari.png</file>
+        <file>Circuits/Autodromo_Nazionale_Monza.png</file>
+        <file>Circuits/Bahrain_International_Circuit.png</file>
+        <file>Circuits/Circuit_de_Barcelona-Catalunya.png</file>
+        <file>Circuits/Circuit_de_Monaco.png</file>
+        <file>Circuits/Circuit_de_Spa-Francorchamps.png</file>
+        <file>Circuits/Circuit_Gilles_Villeneuve.png</file>
+        <file>Circuits/Circuit_of_the_Americas.png</file>
+        <file>Circuits/Hungaroring.png</file>
+        <file>Circuits/Marina_Bay_Street_Circuit.png</file>
+        <file>Circuits/Melbourne_Grand_Prix_Circuit.png</file>
+        <file>Circuits/Red_Bull_Ring.png</file>
+        <file>Circuits/Shanghai_International_Circuit.png</file>
+        <file>Circuits/Silverstone_Circuit.png</file>
+        <file>Circuits/Suzuka_International_Racing_Course.png</file>
+        <file>Circuits/Yas_Marina_Circuit.png</file>
+        <file>Circuits/Autodromo_Hermanos_Rodriguez.png</file>
+        <file>Circuits/Autodromo_Jose_Carlos_Pace.png</file>
+    </qresource>
+    <qresource prefix="/teams">
+        <file>Teams/Alfa_Romeo_Racing.png</file>
+        <file>Teams/Alpine_F1_Team.png</file>
+        <file>Teams/Aston_Martin_Cognizant_Formula_One_Team.png</file>
+        <file>Teams/Haas_F1_Team.png</file>
+        <file>Teams/McLaren_F1_Team.png</file>
+        <file>Teams/Mercedes-AMG_Petronas_Formula_One_Team.png</file>
+        <file>Teams/Red_Bull_Racing_Honda.png</file>
+        <file>Teams/Scuderia_AlphaTauri.png</file>
+        <file>Teams/Scuderia_Ferrari.png</file>
+        <file>Teams/Williams_Racing.png</file>
+    </qresource>
+    <qresource prefix="/tickets">
+        <file>Tickets/F1Calendar.jpg</file>
+    </qresource>
+    <qresource prefix="/videos"/>
+    <qresource prefix="/drivers">
+        <file>Drivers/Alexander Albon.jpg</file>
+        <file>Drivers/Carlos Sainz.jpg</file>
+        <file>Drivers/Charles Leclerc.jpg</file>
+        <file>Drivers/Daniel Ricciardo.jpg</file>
+        <file>Drivers/Esteban Ocon.jpg</file>
+        <file>Drivers/Fernando Alonso.jpg</file>
+        <file>Drivers/George Russel.jpg</file>
+        <file>Drivers/Kevin Magnussen.jpg</file>
+        <file>Drivers/Lance Stroll.jpg</file>
+        <file>Drivers/Lando Norris.jpg</file>
+        <file>Drivers/Lewis Hamilton.jpg</file>
+        <file>Drivers/Logan Sargeant.jpg</file>
+        <file>Drivers/Max Verstappen.jpg</file>
+        <file>Drivers/Nico Hulkenberg.jpg</file>
+        <file>Drivers/Oscar Piastri.jpg</file>
+        <file>Drivers/Pierre Gasly.jpg</file>
+        <file>Drivers/Sergio Perez.jpg</file>
+        <file>Drivers/Valteri Bottas.jpg</file>
+        <file>Drivers/Yuki Tsunoda.jpg</file>
+        <file>Drivers/Zhou Guanyu.jpg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Icons/volume.png</file>
+        <file>Icons/volumemute.png</file>
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>autologger.txt</file>
+    </qresource>
+</RCC>
